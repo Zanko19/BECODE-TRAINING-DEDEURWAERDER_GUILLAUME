@@ -13,3 +13,4 @@ Lorsque vous souhaitez visiter un site web ou envoyer un message à un ami sur I
 Une fois que ces paquets atteignent leur destination, comme un site web, l'ordinateur à l'autre bout les rassemble pour créer la page que vous voyez à l'écran. C'est un peu comme si vous envoyiez un puzzle dans une boîte, et une fois qu'il arrive, il est assemblé pour afficher une image complète.
 
 Ainsi, la prochaine fois que vous utilisez Internet, gardez à l'esprit que derrière l'écran se trouve un réseau complexe de routes secrètes, d'ordinateurs et de routeurs travaillant ensemble pour rendre possibles toutes les activités en ligne. C'est comme une grande aventure virtuelle ! 🌐😃
+review by Ayoub 
